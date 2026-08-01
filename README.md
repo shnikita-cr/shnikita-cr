@@ -12,7 +12,7 @@
 - **LLM and RAG:** LangChain, Ollama, OpenAI API
 - **Backend:** Python, FastAPI, Pydantic, SQLAlchemy
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shnikita-cr&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](./profile/stats.svg)
 
 ## Research Interests
 
