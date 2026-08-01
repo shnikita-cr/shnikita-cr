@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Nikita👋
 
-<!--
-**shnikita-cr/shnikita-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning ML/AI and DS
+- 💬 Ask me about my current projects
+- 📫 How to reach me: [tg](https://t.me/beliy_okean_me)
 
-Here are some ideas to get you started:
+## Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Machine Learning:** PyTorch, Scikit-Learn, XGBoost
+- **Data:** Pandas, NumPy, PostgreSQL
+- **Visualization:** Altair, MatPlotLib, Seaborn, Redash
+- **LLM and RAG:** LangChain, Ollama, OpenAI API
+- **Backend:** Python, FastAPI, Pydantic, SQLAlchemy
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shnikita-cr&show_icons=true&hide_border=true&theme=transparent)
+
+## Research Interests
+
+Agents · Data analysis · RAG · NLP · Visualization generation
