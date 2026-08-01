@@ -12,7 +12,7 @@
 - **LLM and RAG:** LangChain, Ollama, OpenAI API
 - **Backend:** Python, FastAPI, Pydantic, SQLAlchemy
 
-![GitHub Stats](./profile/stats.svg) 
+![GitHub Stats](profile/stats.svg?v=2)
 
 ## Research Interests
 
