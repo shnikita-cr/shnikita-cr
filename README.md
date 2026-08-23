@@ -1,19 +1,22 @@
 # Hello, I'm Nikita👋
+🚀 Actively Looking for Opportunities to work as a **data analyst**
 
-- 🌱 I’m currently learning ML/AI and DS
-- 💬 Ask me about my current projects
-- 📫 How to reach me: [tg](https://t.me/beliy_okean_me)
+I enjoy uncovering trends, building interactive dashboards, and helping teams make data-driven decisions. I am currently looking for a full-time position.
 
 ## Technical Stack
 
-- **Machine Learning:** PyTorch, Scikit-Learn, XGBoost
-- **Data:** Pandas, NumPy, PostgreSQL
-- **Visualization:** Altair, MatPlotLib, Seaborn, Redash
+- **Languages:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL (PostgreSQL)
+- **BI tools**: Redash, Power BI, Tableu
+- **Spreadsheets:** Excel (Advanced, Pivot Tables), Google Sheets
+- **Machine Learning:** Scikit-Learn, XGBoost, PyTorc
+- **Soft Skills:** Analytical Thinking, Cross-functional Collaboration
+
+## Connect with me
+
+- [Telegram](https://t.me/beliy_okean_me)
+- [Email](mailto:nikita.m.box@gmail.com)
+  
+<!-- 
 - **LLM and RAG:** LangChain, Ollama, OpenAI API
-- **Backend:** Python, FastAPI, Pydantic, SQLAlchemy
 
-<!-- This is a single-line comment ![GitHub Stats](https://raw.githubusercontent.com/shnikita-cr/shnikita-cr/main/profile/stats.svg?v=2) --> 
-
-## Research Interests
-
-Agents · Data analysis · RAG · NLP · Visualization generation
+This is a single-line comment ![GitHub Stats](https://raw.githubusercontent.com/shnikita-cr/shnikita-cr/main/profile/stats.svg?v=2) --> 
