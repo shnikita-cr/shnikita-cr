@@ -1,5 +1,5 @@
 # Hello, I'm Nikita👋
-🚀 Actively Looking for Opportunities to work as a **data analyst**
+🚀 Actively Looking for Opportunities to work as a **Data Analyst**
 
 I enjoy uncovering trends, building interactive dashboards, and helping teams make data-driven decisions. I am currently looking for a full-time position.
 
