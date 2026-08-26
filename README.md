@@ -8,7 +8,7 @@ I enjoy uncovering trends, building interactive dashboards, and helping teams ma
 - **Languages:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL (PostgreSQL)
 - **BI tools**: Redash, Power BI, Tableu
 - **Spreadsheets:** Excel (Advanced, Pivot Tables), Google Sheets
-- **Machine Learning:** Scikit-Learn, XGBoost, PyTorc
+- **Machine Learning:** Scikit-Learn, XGBoost, PyTorch
 - **Soft Skills:** Analytical Thinking, Cross-functional Collaboration
 
 ## Connect with me
