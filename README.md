@@ -6,9 +6,9 @@ Data specialist who builds dashboards in Tableau and works with Python and SQL. 
 ## Technical Stack
 
 - **Languages:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL (PostgreSQL)
-- **BI tools**: Redash, Power BI, Tableu
+- **BI tools**: Redash, Tableu
 - **Spreadsheets:** Excel (Advanced, Pivot Tables), Google Sheets
-- **Machine Learning:** Scikit-Learn, XGBoost, PyTorch
+- **Machine Learning:** Scikit-Learn
 - **Soft Skills:** Analytical Thinking, Cross-functional Collaboration
 - **LLM and RAG:** LangChain, Ollama, OpenAI API
 ## Connect with me
