@@ -1,7 +1,7 @@
 # Hello, I'm Nikita👋
 🚀 Actively Looking for Opportunities to work as a **Data Specialist**
 
-Data specialist who builds dashboards in Tableau and works with Python and SQL. Looking for a full-time data specialist role.
+Data specialist who builds dashboards in Tableau and works with Python and SQL. Looking for a full-time job.
 
 ## Technical Stack
 
